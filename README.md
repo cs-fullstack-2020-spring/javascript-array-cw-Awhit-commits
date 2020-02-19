@@ -11,7 +11,7 @@
 
 ### Exercise 2
 - Write a program that asks the user to enter 4 ages. Save each of the ages into an array.
-- Console.log the list of names
+- Console.log the list of ages
 - Delete the third age.
 - Change the second element (NOT index 2, the second element) to a different age.
 - Console.log the list of names
